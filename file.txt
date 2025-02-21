@@ -9,3 +9,6 @@ hahahhahahahaaa
 print("hello world!")
 
 <a>hello</a>
+
+zarb = 2*3
+print(zarb)
